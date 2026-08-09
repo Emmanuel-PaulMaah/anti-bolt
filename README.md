@@ -57,6 +57,12 @@ npm run dev
 
 open http://localhost:3000
 
+## future
+
+- intelligent routing using fare price, distance & weather
+- pngs of landmarks along each route
+- share location w friends & family
+
 ## stack
 
 - next.js 16
